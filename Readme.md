@@ -5,11 +5,13 @@
 ## 참여자
   * 참여자분들은 해당 문서에 들어와 해당 항목에 참여자 github nickname을 팀별로 컨트리뷰션 해주시기 바랍니다.
 >1팀
+> JeongHyeSoo, Suhyeon07
 >
 >2팀
+> rkdmfqka, gyeong07
 >
 >3팀
->
+> sc0116, princesssuna
 
 ## 기획서 제출일정
  * 제출일정은 12월21일부터 12월 31일 까지 입니다.
